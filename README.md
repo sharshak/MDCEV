@@ -4,3 +4,9 @@ The R code is based on Prof. Chandra Bhat's (UT Austin) work on MDCEV models. I 
 If you wish to use this code, you are free to do so. Please acknowledge Prof. Bhat's work by taking a look at his webpage.
 I would like to be cited, if you use my code in part or full.
 The data and variables are connected to my project. You may have to customize it to make it work.
+I will post the following codes in the coming months:
+1) MDCEV with intercept heterogeneity. 
+2) MDCEV with Choice Sets
+3) MDCEV with Factor Analytic Error Structure
+
+Good Luck!
